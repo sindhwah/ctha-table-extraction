@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//ES//DTD book DTD version 5.5.0//EN//XML" "book550.dtd" [
+<!ENTITY f001-001-9780702070280 SYSTEM "f001-001-9780702070280" NDATA IMAGE>
+<!ENTITY f001-002-9780702070280 SYSTEM "f001-002-9780702070280" NDATA IMAGE>
+<!ENTITY f001-003-9780702070280 SYSTEM "f001-003-9780702070280" NDATA IMAGE>
+<!ENTITY f001-004-9780702070280 SYSTEM "f001-004-9780702070280" NDATA IMAGE>
+<!ENTITY f001-005-9780702070280 SYSTEM "f001-005-9780702070280" NDATA IMAGE>
+<!ENTITY f001-006-9780702070280 SYSTEM "f001-006-9780702070280" NDATA IMAGE>
+<!ENTITY f001-007-9780702070280 SYSTEM "f001-007-9780702070280" NDATA IMAGE>
+<!ENTITY f001-008-9780702070280 SYSTEM "f001-008-9780702070280" NDATA IMAGE>
+<!ENTITY f001-009-9780702070280 SYSTEM "f001-009-9780702070280" NDATA IMAGE>
+<!ENTITY icon01-9780702070280 SYSTEM "icon01-9780702070280" NDATA IMAGE>]>
+<chapter docsubtype="chp" id="c00001" version="5.5" xml:lang="en"
+	xmlns="http://www.elsevier.com/xml/bk/dtd"
+	xmlns:ce="http://www.elsevier.com/xml/common/dtd"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<info>
+		<ce:pii>B978-0-7020-7028-0.00001-9</ce:pii>
+		<ce:doi>10.1016/B978-0-7020-7028-0.00001-9</ce:doi>
+		<ce:isbn>978-0-7020-7028-0</ce:isbn>
+		<ce:copyright type="full-transfer" year="2018">Elsevier Ltd</ce:copyright>
+	</info>
+	<ce:floats>
+		<ce:figure id="f0010">
+			<ce:label>Fig. 1.1</ce:label>
+			<ce:caption id="ca0010">
+				<ce:simple-para id="sp0010" role="title">Elements of clinical reasoning.</ce:simple-para>
+				<ce:simple-para id="sp0015" role="caption">(EBM = evidence-based medicine)</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0010" role="short">Fig. 1.1</ce:alt-text>
+			<ce:link id="ln0020" locator="f001-001-9780702070280" xlink:href="pii:B9780702070280000019/f001-001-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0015">
+			<ce:label>Fig. 1.2</ce:label>
+			<ce:caption id="ca0015">
+				<ce:simple-para id="sp0020" role="title">Likelihood ratio (LR) of Kernig's sign, Brudzinski's sign and nuchal rigidity in the clinical diagnosis of meningitis.</ce:simple-para>
+				<ce:simple-para id="sp0025" role="caption">
+					<ce:display>
+						<ce:formula id="e0010">
+							<mml:math altimg="si1.gif" display="block" overflow="scroll">
+								<mml:mrow>
+									<mml:mtext>LR</mml:mtext>
+									<mml:mo>=</mml:mo>
+									<mml:mfrac>
+										<mml:mrow>
+											<mml:mtext>probability of finding in patients</mml:mtext>
+											<mml:mtext></mml:mtext>
+											<mml:mi mathvariant="bold">w</mml:mi>
+											<mml:mi mathvariant="bold">i</mml:mi>
+											<mml:mi mathvariant="bold">t</mml:mi>
+											<mml:mi mathvariant="bold">h</mml:mi>
+											<mml:mtext></mml:mtext>
+											<mml:mtext>disease</mml:mtext>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mtext>probability of finding in patients</mml:mtext>
+											<mml:mtext></mml:mtext>
+											<mml:mi mathvariant="bold">w</mml:mi>
+											<mml:mi mathvariant="bold">i</mml:mi>
+											<mml:mi mathvariant="bold">t</mml:mi>
+											<mml:mi mathvariant="bold">h</mml:mi>
+											<mml:mi mathvariant="bold">o</mml:mi>
+											<mml:mi mathvariant="bold">u</mml:mi>
+											<mml:mi mathvariant="bold">t</mml:mi>
+											<mml:mtext></mml:mtext>
+											<mml:mtext>disease</mml:mtext>
+										</mml:mrow>
+									</mml:mfrac>
+								</mml:mrow>
+							</mml:math>
+						</ce:formula>
+					</ce:display>
+				</ce:simple-para>
+				<ce:simple-para id="sp0030" role="caption">LRs are also used for diagnostic tests; here a physical examination finding can be considered a diagnostic test.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0015" role="short">Fig. 1.2</ce:alt-text>
+			<ce:source>Data from Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy of Kernig's sign, Brudzinski's sign, and nuchal rigidity in adults with suspected meningitis. Clin Infect Dis 2002; 35:46–52.</ce:source>
+			<ce:link id="ln0030" locator="f001-002-9780702070280" xlink:href="pii:B9780702070280000019/f001-002-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0020">
+			<ce:label>Fig. 1.3</ce:label>
+			<ce:caption id="ca0020">
+				<ce:simple-para id="sp0035" role="title">Normal distribution and reference range.</ce:simple-para>
+				<ce:simple-para id="sp0040" role="caption">For many tests, the frequency distribution of results in the normal healthy population (red line) is a symmetrical bell-shaped curve. The mean ± 2 standard deviations (SD) encompasses 95% of the normal population and usually defines the ‘reference range’; 2.5% of the normal population have values above, and 2.5% below, this range (shaded areas). For some diseases (blue line), test results overlap with the normal population or even with the reference range. For other diseases (green line), tests may be more reliable because there is no overlap between the normal and abnormal population.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0020" role="short">Fig. 1.3</ce:alt-text>
+			<ce:link id="ln0035" locator="f001-003-9780702070280" xlink:href="pii:B9780702070280000019/f001-003-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0025">
+			<ce:label>Fig. 1.4</ce:label>
+			<ce:caption id="ca0025">
+				<ce:simple-para id="sp0045" role="title">Receiver operating characteristic graph illustrating the trade-off between sensitivity and specificity for a given test.</ce:simple-para>
+				<ce:simple-para id="sp0050" role="caption">The curve is generated by ‘adjusting’ the cut-off values defining normal and abnormal results, calculating the effect on sensitivity and specificity and then plotting these against each other. The closer the curve lies to the top left-hand corner, the more useful the test. The red line illustrates a test with useful discriminant value and the green line illustrates a less useful, poorly discriminant test.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0025" role="short">Fig. 1.4</ce:alt-text>
+			<ce:link id="ln0050" locator="f001-004-9780702070280" xlink:href="pii:B9780702070280000019/f001-004-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0030">
+			<ce:label>Fig. 1.5</ce:label>
+			<ce:caption id="ca0030">
+				<ce:simple-para id="sp0055" role="title">The interpretation of a test result depends on the probability of the disease before the test is carried out.</ce:simple-para>
+				<ce:simple-para id="sp0060" role="caption">In the example shown, the test being carried out has a sensitivity of 95% and a specificity of 85%. Patient A has very characteristic clinical findings, which make the pre-test probability of the condition for which the test is being used very high – estimated as 90%. Patient B has more equivocal findings, such that the pre-test probability is estimated as only 50%. If the result in Patient A is negative, there is still a significant chance that he has the condition for which he is being tested; in Patient B, however, a negative result makes the diagnosis very unlikely.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0030" role="short">Fig. 1.5</ce:alt-text>
+			<ce:link id="ln0055" locator="f001-005-9780702070280" xlink:href="pii:B9780702070280000019/f001-005-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0035">
+			<ce:label>Fig. 1.6</ce:label>
+			<ce:caption id="ca0035">
+				<ce:simple-para id="sp0065" role="title">The interplay between type 1 and type 2 thinking in the diagnostic process.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0035" role="short">Fig. 1.6</ce:alt-text>
+			<ce:source>Adapted from Croskerry P. A universal model of diagnostic reasoning. Acad Med 2009; 84:1022–1028.</ce:source>
+			<ce:link id="ln0070" locator="f001-006-9780702070280" xlink:href="pii:B9780702070280000019/f001-006-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0040">
+			<ce:label>Fig. 1.7</ce:label>
+			<ce:caption id="ca0040">
+				<ce:simple-para id="sp0070" role="title">Common cognitive biases in medicine.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0040" role="short">Fig. 1.7</ce:alt-text>
+			<ce:source>Adapted from Croskerry P. Achieving quality in clinical decision-making: cognitive strategies and detection of bias. Acad Emerg Med 2002; 9:1184–1204.</ce:source>
+			<ce:link id="ln0075" locator="f001-007-9780702070280" xlink:href="pii:B9780702070280000019/f001-007-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0045">
+			<ce:label>Fig. 1.8</ce:label>
+			<ce:caption id="ca0045">
+				<ce:simple-para id="sp0075" role="title">Factors that affect our judgement and decision-making.</ce:simple-para>
+				<ce:simple-para id="sp0080" role="caption">Type 1 thinking = fast, intuitive, subconscious, low-effort.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0045" role="short">Fig. 1.8</ce:alt-text>
+			<ce:link id="ln0080" locator="f001-008-9780702070280" xlink:href="pii:B9780702070280000019/f001-008-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:figure id="f0050">
+			<ce:label>Fig. 1.9</ce:label>
+			<ce:caption id="ca0050">
+				<ce:simple-para id="sp0085" role="title">Visual portrayal of benefits and risks.</ce:simple-para>
+				<ce:simple-para id="sp0090" role="caption">The image refers to an operation that is expected to relieve symptoms in 90% of patients, but cause stroke in 2% and death in 1%.</ce:simple-para>
+			</ce:caption>
+			<ce:alt-text id="atte0050" role="short">Fig. 1.9</ce:alt-text>
+			<ce:source>From Edwards A, Elwyn G, Mulley A. Explaining risks: turning numerical data into meaningful pictures. BMJ 2002; 324:827–830, reproduced with permission from the BMJ Publishing Group.</ce:source>
+			<ce:link id="ln0090" locator="f001-009-9780702070280" xlink:href="pii:B9780702070280000019/f001-009-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+		</ce:figure>
+		<ce:textbox id="b0010" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0010" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0055" role="short">Image 1</ce:alt-text>
+				</ce:inline-figure>1.1
+			</ce:label>
+			<ce:alt-text id="atte0060" role="short">1.1</ce:alt-text>
+			<ce:source>Adapted from Graber M, Gordon R, Franklin N. Reducing diagnostic errors in medicine: what's the goal? Acad Med 2002; 77:981–992.</ce:source>
+			<ce:textbox-head>
+				<ce:title id="tit0015">Root causes of diagnostic error in studies</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0130">
+						<ce:display>
+							<ce:table frame="topbot" id="t0010">
+								<ce:alt-text id="atte0065" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="2">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left">Error category</entry>
+											<entry align="left">Examples</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>No fault</ce:bold>
+											</entry>
+											<entry align="left">
+												<ce:list id="ulist0030">
+													<ce:list-item id="u0120">
+														<ce:para id="p0135">Unusual presentation of a disease</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0125">
+														<ce:para id="p0140">Missing information</ce:para>
+													</ce:list-item>
+												</ce:list>
+											</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>System error</ce:bold>
+											</entry>
+											<entry align="left">
+												<ce:list id="ulist0035">
+													<ce:list-item id="u0130">
+														<ce:para id="p0145">Inadequate diagnostic support</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0135">
+														<ce:para id="p0150">Results not available</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0140">
+														<ce:para id="p0155">Error-prone processes</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0145">
+														<ce:para id="p0160">Poor supervision of inexperienced staff</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0150">
+														<ce:para id="p0165">Poor team communication</ce:para>
+													</ce:list-item>
+												</ce:list>
+											</entry>
+										</row>
+										<row>
+											<entry align="left">
+												<ce:bold>Human cognitive error</ce:bold>
+											</entry>
+											<entry align="left">
+												<ce:list id="ulist0040">
+													<ce:list-item id="u0155">
+														<ce:para id="p0170">Inadequate data-gathering</ce:para>
+													</ce:list-item>
+													<ce:list-item id="u0160">
+														<ce:para id="p0175">Errors in reasoning</ce:para>
+													</ce:list-item>
+												</ce:list>
+											</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0015" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0015" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0070" role="short">Image 2</ce:alt-text>
+				</ce:inline-figure>1.2
+			</ce:label>
+			<ce:alt-text id="atte0075" role="short">1.2</ce:alt-text>
+			<ce:textbox-head>
+				<ce:title id="tit0020">Reasons for errors in clinical reasoning</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0200">
+						<ce:display>
+							<ce:table frame="topbot" id="t0015">
+								<ce:alt-text id="atte0080" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="2">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left">Source of error</entry>
+											<entry align="left">Examples</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Knowledge gaps</ce:bold>
+											</entry>
+											<entry align="left">Telling a patient she cannot have biliary colic because she has had her gallbladder removed – gallstones can form in the bile ducts in patients who have had a cholecystectomy</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Misinterpretation of diagnostic tests</ce:bold>
+											</entry>
+											<entry align="left">Deciding a patient has not had a stroke because his brain scan is normal – computed tomography and even magnetic resonance imaging, especially when performed early, may not identify an infarct</entry>
+										</row>
+										<row>
+											<entry align="left">
+												<ce:bold>Cognitive biases</ce:bold>
+											</entry>
+											<entry align="left">Accepting a diagnosis handed over to you without question (the ‘framing effect’) instead of asking yourself ‘What is the evidence that supports this diagnosis?’</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0020" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0040" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0085" role="short">Image 3</ce:alt-text>
+				</ce:inline-figure>1.3
+			</ce:label>
+			<ce:alt-text id="atte0090" role="short">1.3</ce:alt-text>
+			<ce:textbox-head>
+				<ce:title id="tit0025">Examples of factors other than disease that influence test results</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0335">
+						<ce:display>
+							<ce:table frame="topbot" id="t0020">
+								<ce:alt-text id="atte0095" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="2">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left">Factor</entry>
+											<entry align="left">Examples</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Age</ce:bold>
+											</entry>
+											<entry align="left">Creatinine is lower in old age (due to relatively lower muscle mass) – an older person can have a significantly reduced eGFR rate with a ‘normal’ creatinine</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Ethnicity</ce:bold>
+											</entry>
+											<entry align="left">Healthy people of African ancestry have lower white cell counts</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Pregnancy</ce:bold>
+											</entry>
+											<entry align="left">
+												<ce:list id="ulist0065">
+													<ce:list-item id="u0245">
+														<ce:para id="p0340">Several tests are affected by late pregnancy, due to the effects of a growing fetus, including:
+															<ce:list id="ulist0070">
+																<ce:list-item id="u0250">
+																	<ce:para id="p0345">Reduced urea and creatinine (haemodilution)</ce:para>
+																</ce:list-item>
+																<ce:list-item id="u0255">
+																	<ce:para id="p0350">Iron deficiency anaemia (increased demand)</ce:para>
+																</ce:list-item>
+																<ce:list-item id="u0260">
+																	<ce:para id="p0355">Increased alkaline phosphatase (produced by the placenta)</ce:para>
+																</ce:list-item>
+																<ce:list-item id="u0265">
+																	<ce:para id="p0360">Raised D-dimer (physiological changes in the coagulation system)</ce:para>
+																</ce:list-item>
+																<ce:list-item id="u0270">
+																	<ce:para id="p0365">Mild respiratory alkalosis (physiological maternal hyperventilation)</ce:para>
+																</ce:list-item>
+																<ce:list-item id="u0275">
+																	<ce:para id="p0370">ECG changes (tachycardia, left axis deviation)</ce:para>
+																</ce:list-item>
+															</ce:list>
+														</ce:para>
+													</ce:list-item>
+												</ce:list>
+											</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>Sex</ce:bold>
+											</entry>
+											<entry align="left">Males and females have different reference ranges for many tests, e.g. haemoglobin</entry>
+										</row>
+										<row>
+											<entry align="left">
+												<ce:bold>Spurious (in vitro) results</ce:bold>
+											</entry>
+											<entry align="left">A spurious high potassium is seen in haemolysis and in thrombocytosis (‘pseudohyperkalaemia’)</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+					<ce:para id="p0375">(ECG = electrocardiogram; eGFR = estimated glomerular filtration rate, a better estimate of renal function than creatinine)</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0025" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0045" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0100" role="short">Image 4</ce:alt-text>
+				</ce:inline-figure>1.4
+			</ce:label>
+			<ce:alt-text id="atte0105" role="short">1.4</ce:alt-text>
+			<ce:textbox-head>
+				<ce:title id="tit0030">Sensitivity and specificity</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0395">
+						<ce:display>
+							<ce:table frame="topbot" id="t0025">
+								<ce:alt-text id="atte0110" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="3">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<colspec colname="col3" colnum="3"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left"/>
+											<entry align="left">Disease</entry>
+											<entry align="left">No disease</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row>
+											<entry morerows="1" rowsep="1" align="left">
+												<ce:bold>Positive test</ce:bold>
+											</entry>
+											<entry rowsep="0" align="left">A</entry>
+											<entry rowsep="0" align="left">B</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">(True positive)</entry>
+											<entry align="left">(False positive)</entry>
+										</row>
+										<row>
+											<entry morerows="1" rowsep="1" align="left">
+												<ce:bold>Negative test</ce:bold>
+											</entry>
+											<entry rowsep="0" align="left">C</entry>
+											<entry rowsep="0" align="left">D</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">(False negative)</entry>
+											<entry align="left">(True negative)</entry>
+										</row>
+										<row>
+											<entry namest="col1" nameend="col3" align="center">Sensitivity = A/(A+C) × 100
+												<ce:br/>Specificity = D/(D+B) × 100
+											</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0030" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0060" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0115" role="short">Image 5</ce:alt-text>
+				</ce:inline-figure>1.5
+			</ce:label>
+			<ce:alt-text id="atte0120" role="short">1.5</ce:alt-text>
+			<ce:textbox-head>
+				<ce:title id="tit0035">Predictive values: ‘What is the probability that a person with a positive test actually has the disease?’</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0440">
+						<ce:display>
+							<ce:table frame="topbot" id="t0030">
+								<ce:alt-text id="atte0125" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="3">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<colspec colname="col3" colnum="3"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left"/>
+											<entry align="left">Disease</entry>
+											<entry align="left">No disease</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row>
+											<entry morerows="1" rowsep="1" align="left">
+												<ce:bold>Positive test</ce:bold>
+											</entry>
+											<entry rowsep="0" align="left">A</entry>
+											<entry rowsep="0" align="left">B</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">(True positive)</entry>
+											<entry align="left">(False positive)</entry>
+										</row>
+										<row>
+											<entry morerows="1" rowsep="1" align="left">
+												<ce:bold>Negative test</ce:bold>
+											</entry>
+											<entry rowsep="0" align="left">C</entry>
+											<entry rowsep="0" align="left">D</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">(False negative)</entry>
+											<entry align="left">(True negative)</entry>
+										</row>
+										<row>
+											<entry namest="col1" nameend="col3" align="center">Positive predictive value = A/(A+B) × 100
+												<ce:br/>Negative predictive value = D/(D+C) × 100
+											</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0035" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0065" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0130" role="short">Image 6</ce:alt-text>
+				</ce:inline-figure>1.6
+			</ce:label>
+			<ce:alt-text id="atte0135" role="short">1.6</ce:alt-text>
+			<ce:textbox-head>
+				<ce:title id="tit0040">Type 1 and type 2 thinking</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0510">
+						<ce:display>
+							<ce:table frame="topbot" id="t0035">
+								<ce:alt-text id="atte0140" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="2">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left">Type 1</entry>
+											<entry align="left">Type 2</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row rowsep="1">
+											<entry align="left">Intuitive, heuristic (pattern recognition)</entry>
+											<entry align="left">Analytical, systematic</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">Automatic, subconscious</entry>
+											<entry align="left">Deliberate, conscious</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">Fast, effortless</entry>
+											<entry align="left">Slow, effortful</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">Low/variable reliability</entry>
+											<entry align="left">High/consistent reliability</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">Vulnerable to error</entry>
+											<entry align="left">Less prone to error</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">Highly affected by context</entry>
+											<entry align="left">Less affected by context</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">High emotional involvement</entry>
+											<entry align="left">Low emotional involvement</entry>
+										</row>
+										<row>
+											<entry align="left">Low scientific rigour</entry>
+											<entry align="left">High scientific rigour</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+		<ce:textbox id="b0040" role="alt1">
+			<ce:label>
+				<ce:inline-figure baseline="0.0">
+					<ce:link id="ln0085" locator="icon01-9780702070280" xlink:href="pii:B9780702070280000019/icon01-9780702070280" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+					<ce:alt-text id="atte0145" role="short">Image 7</ce:alt-text>
+				</ce:inline-figure>1.7
+			</ce:label>
+			<ce:alt-text id="atte0150" role="short">1.7</ce:alt-text>
+			<ce:source>From Royal College of Physicians of London. National Early Warning Score: standardising the assessment of illness severity in the NHS. Report of a working party. RCP, July 2012; 
+				<ce:inter-ref id="iw0010" xlink:href="http://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news">www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news</ce:inter-ref> (accessed March 2016).
+			</ce:source>
+			<ce:textbox-head>
+				<ce:title id="tit0045">The SBAR system of communicating</ce:title>
+			</ce:textbox-head>
+			<ce:textbox-body>
+				<ce:sections>
+					<ce:para id="p0650">
+						<ce:display>
+							<ce:table frame="topbot" id="t0040">
+								<ce:alt-text id="atte0155" role="short">Unlabelled table</ce:alt-text>
+								<tgroup cols="2">
+									<colspec colname="col1" colnum="1"/>
+									<colspec colname="col2" colnum="2"/>
+									<thead>
+										<row rowsep="1">
+											<entry align="left">SBAR</entry>
+											<entry align="left">Example (a telephone call to the Intensive Care team)</entry>
+										</row>
+									</thead>
+									<tbody>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>S</ce:bold>ituation
+											</entry>
+											<entry align="left">I am [name] calling from [place] about a patient with a NEWS of 10.</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>B</ce:bold>ackground
+											</entry>
+											<entry align="left">[Patient's name], 30-year-old woman, no past medical history, was admitted last night with community-acquired pneumonia. Since then her oxygen requirements have been steadily increasing.</entry>
+										</row>
+										<row rowsep="1">
+											<entry align="left">
+												<ce:bold>A</ce:bold>ssessment
+											</entry>
+											<entry align="left">Her vital signs are: blood pressure 115/60 mmHg, heart rate 120 beats/min, temperature 38°C, respiratory rate 32 breaths/min, oxygen saturations 89% on 15 L via reservoir bag mask.
+												<ce:br/>An arterial blood gas shows pH 7.3 (H
+												<ce:sup loc="post">+</ce:sup> 50 nmol/L), 
+												<ce:italic>Pa</ce:italic>CO
+												<ce:inf loc="post">2</ce:inf> 4.0 kPa (30 mmHg), 
+												<ce:italic>Pa</ce:italic>O
+												<ce:inf loc="post">2</ce:inf> 7 kPa (52.5 mmHg), standard bicarbonate 14 mmol/L.
+												<ce:br/>Chest X-ray shows extensive right lower zone consolidation.
+											</entry>
+										</row>
+										<row>
+											<entry align="left">
+												<ce:bold>R</ce:bold>ecommendation
+											</entry>
+											<entry align="left">Please can you come and see her as soon as possible? I think she needs admission to Intensive Care.</entry>
+										</row>
+									</tbody>
+								</tgroup>
+							</ce:table>
+						</ce:display>
+					</ce:para>
+					<ce:para id="p0655">(NEWS = National Early Warning Score; a patient with normal vital signs scores 0)</ce:para>
+				</ce:sections>
+			</ce:textbox-body>
+		</ce:textbox>
+	</ce:floats>
+	<ce:label>1</ce:label>
+	<ce:title id="tit0010">Clinical decision-making</ce:title>
+	<ce:author-group id="aug0010">
+		<ce:author author-id="B9780702070280000019-60e9bfa83e42e78d43e0aa01103c771e" id="au0010">
+			<ce:given-name>N</ce:given-name>
+			<ce:surname>Cooper</ce:surname>
+		</ce:author>
+	</ce:author-group>
+	<ce:author-group id="aug0015">
+		<ce:author author-id="B9780702070280000019-180e7fab0f479ae06ad79b85c2b22b6f" id="au0015">
+			<ce:given-name>AL</ce:given-name>
+			<ce:surname>Cracknell</ce:surname>
+		</ce:author>
+	</ce:author-group>
+	<outline id="out0010">
+		<ce:list id="ulist0010">
+			<ce:list-item id="u0010">
+				<ce:para id="p0010">
+					<ce:bold>Introduction</ce:bold>
+					<ce:cross-ref id="crf0010" refid="s0010">
+						<ce:bold>2</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0015">
+				<ce:para id="p0015">
+					<ce:bold>The problem of diagnostic error</ce:bold>
+					<ce:cross-ref id="crf0015" refid="s0015">
+						<ce:bold>2</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0020">
+				<ce:para id="p0020">
+					<ce:bold>Clinical reasoning: definitions</ce:bold>
+					<ce:cross-ref id="crf0020" refid="s0020">
+						<ce:bold>2</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0025">
+				<ce:para id="p0025">
+					<ce:bold>Clinical skills and decision-making</ce:bold>
+					<ce:cross-ref id="crf0025" refid="s0025">
+						<ce:bold>3</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0030">
+				<ce:para id="p0030">
+					<ce:bold>Use and interpretation of diagnostic tests</ce:bold>
+					<ce:cross-ref id="crf0030" refid="s0030">
+						<ce:bold>3</ce:bold>
+					</ce:cross-ref>
+					<ce:list id="ulist0015">
+						<ce:list-item id="u0035">
+							<ce:para id="p0035">Normal values 
+								<ce:cross-ref id="crf0035" refid="s0035">3</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0040">
+							<ce:para id="p0040">Factors other than disease that influence test results 
+								<ce:cross-ref id="crf0040" refid="s0040">4</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0045">
+							<ce:para id="p0045">Operating characteristics 
+								<ce:cross-ref id="crf0045" refid="s0045">4</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0050">
+							<ce:para id="p0050">Sensitivity and specificity 
+								<ce:cross-ref id="crf0050" refid="s0050">4</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0055">
+							<ce:para id="p0055">Prevalence of disease 
+								<ce:cross-ref id="crf0055" refid="s0055">5</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0060">
+				<ce:para id="p0060">
+					<ce:bold>Dealing with uncertainty</ce:bold>
+					<ce:cross-ref id="crf0060" refid="s0060">
+						<ce:bold>5</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0065">
+				<ce:para id="p0065">
+					<ce:bold>Cognitive biases</ce:bold>
+					<ce:cross-ref id="crf0065" refid="s0065">
+						<ce:bold>6</ce:bold>
+					</ce:cross-ref>
+					<ce:list id="ulist0020">
+						<ce:list-item id="u0070">
+							<ce:para id="p0070">Type 1 and type 2 thinking 
+								<ce:cross-ref id="crf0070" refid="s0070">7</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0075">
+							<ce:para id="p0075">Common cognitive biases in medicine 
+								<ce:cross-ref id="crf0075" refid="s0075">7</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0080">
+							<ce:para id="p0080">Human factors 
+								<ce:cross-ref id="crf0080" refid="s0080">9</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0085">
+				<ce:para id="p0085">
+					<ce:bold>Reducing errors in clinical decision-making</ce:bold>
+					<ce:cross-ref id="crf0085" refid="s0085">
+						<ce:bold>9</ce:bold>
+					</ce:cross-ref>
+					<ce:list id="ulist0025">
+						<ce:list-item id="u0090">
+							<ce:para id="p0090">Cognitive debiasing strategies 
+								<ce:cross-ref id="crf0090" refid="s0090">9</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0095">
+							<ce:para id="p0095">Using clinical prediction rules and other decision aids 
+								<ce:cross-ref id="crf0095" refid="s0115">10</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0100">
+							<ce:para id="p0100">Effective team communication 
+								<ce:cross-ref id="crf0100" refid="s0120">10</ce:cross-ref>
+							</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0105">
+				<ce:para id="p0105">
+					<ce:bold>Patient-centred evidence-based medicine and shared decision-making</ce:bold>
+					<ce:cross-ref id="crf0105" refid="s0125">
+						<ce:bold>10</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0110">
+				<ce:para id="p0110">
+					<ce:bold>Clinical decision-making: putting it all together</ce:bold>
+					<ce:cross-ref id="crf0110" refid="s0130">
+						<ce:bold>10</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+			<ce:list-item id="u0115">
+				<ce:para id="p0115">
+					<ce:bold>Answers to problems</ce:bold>
+					<ce:cross-ref id="crf0115" refid="s0185">
+						<ce:bold>12</ce:bold>
+					</ce:cross-ref>
+				</ce:para>
+			</ce:list-item>
+		</ce:list>
+	</outline>
+	<ce:sections>
+		<ce:section id="s0010">
+			<ce:section-title id="st0010">Introduction</ce:section-title>
+			<ce:para id="p0120">A great deal of knowledge and skill is required to practise as a doctor. Physicians in the 21st century need to have a comprehensive knowledge of basic and clinical sciences, have good communication skills, be able to perform procedures, work effectively in a team and demonstrate professional and ethical behaviour. But how doctors think, reason and make decisions is arguably their most critical skill. Knowledge is necessary, but not sufficient on its own for good performance and safe care. This chapter describes the principles of clinical decision-making, or clinical reasoning.</ce:para>
+		</ce:section>
+		<ce:section id="s0015">
+			<ce:section-title id="st0015">The problem of diagnostic error</ce:section-title>
+			<ce:para id="p0125">It is estimated that diagnosis is wrong 10–15% of the time in specialties such as emergency medicine, internal medicine and general practice. Diagnostic error is associated with greater morbidity than other types of medical error, and the majority is considered to be preventable. For every diagnostic error there are a number of root causes. Studies of misdiagnosis assign three main categories, shown in 
+				<ce:cross-ref id="crf0120" refid="b0010">Box 1.1</ce:cross-ref>
+				<ce:float-anchor refid="b0010"/>; however, errors in clinical reasoning play a significant role in the majority of diagnostic adverse events.
+			</ce:para>
+			<ce:para id="p0180">Diagnostic error has been defined as ‘a situation in which the clinician has all the information necessary to make the diagnosis but then makes the wrong diagnosis’. Why does this happen? Studies reveal three main reasons:
+				<ce:list id="ulist0045">
+					<ce:list-item id="u0165">
+						<ce:label>•</ce:label>
+						<ce:para id="p0185">knowledge gaps</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0170">
+						<ce:label>•</ce:label>
+						<ce:para id="p0190">misinterpretation of diagnostic tests</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0175">
+						<ce:label>•</ce:label>
+						<ce:para id="p0195">cognitive biases.</ce:para>
+					</ce:list-item>
+				</ce:list>Examples of errors in these three categories are shown in
+				<ce:cross-ref id="crf0125" refid="b0015">Box 1.2</ce:cross-ref>
+				<ce:float-anchor refid="b0015"/>.
+			</ce:para>
+			<ce:para id="p0205">Clearly, clinical knowledge is required for sound clinical reasoning, and an incomplete knowledge base or inadequate experience can lead to diagnostic error. However, this chapter focuses on other elements of clinical reasoning: namely, the interpretation of diagnostic tests, cognitive biases and human factors.</ce:para>
+		</ce:section>
+		<ce:section id="s0020">
+			<ce:section-title id="st0020">Clinical reasoning: definitions</ce:section-title>
+			<ce:para id="p0210">‘Clinical reasoning’ describes the thinking and decision-making processes associated with clinical practice. It is a clinician's ability to make decisions (often with others) based on all the available clinical information, starting with the history and physical examination. Our understanding of clinical reasoning derives from the fields of education, cognitive psychology and studies of expertise.</ce:para>
+			<ce:para id="p0215">
+				<ce:cross-ref id="crf0130" refid="f0010">Figure 1.1</ce:cross-ref>
+				<ce:float-anchor refid="f0010"/> shows the different elements involved in clinical reasoning. Good clinical skills are fundamental, followed by understanding how to use and interpret diagnostic tests. Other essential elements include an understanding of cognitive biases and human factors, and the ability to think about one's own thinking (which is explained in more detail later). Other key elements of clinical reasoning include patient-centred evidence-based medicine (EBM) and shared decision-making with patients and/or carers.
+			</ce:para>
+		</ce:section>
+		<ce:section id="s0025">
+			<ce:section-title id="st0025">Clinical skills and decision-making</ce:section-title>
+			<ce:para id="p0220">Even with major advances in medical technology, the history remains the most important part of the clinical decision-making process. Studies show that physicians make a diagnosis in 70–90% of cases from the history alone. It is important to remember that a good history is gathered not only from the patient but also, if necessary (and with consent if required), from all available sources: for example, paramedic and emergency department notes, eye-witnesses, relatives and/or carers.</ce:para>
+			<ce:para id="p0225">Clinicians need to be aware of the diagnostic usefulness of clinical features in the history and examination. For example, students are taught that meningitis presents with the following features:
+				<ce:list id="ulist0050">
+					<ce:list-item id="u0180">
+						<ce:label>•</ce:label>
+						<ce:para id="p0230">headache</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0185">
+						<ce:label>•</ce:label>
+						<ce:para id="p0235">fever</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0190">
+						<ce:label>•</ce:label>
+						<ce:para id="p0240">meningism (photophobia, nuchal rigidity).</ce:para>
+					</ce:list-item>
+				</ce:list>However, the frequency with which patients present with certain features and the diagnostic weight of each feature are important in clinical reasoning. For example, many patients with meningitis do not have classical signs of meningeal irritation (Kernig's sign, Brudzinski's sign and nuchal rigidity). In one prospective study, they had likelihood ratios of around 1, meaning they carried little diagnostic weight (
+				<ce:cross-ref id="crf0135" refid="f0015">Fig. 1.2</ce:cross-ref>
+				<ce:float-anchor refid="f0015"/>).
+			</ce:para>
+			<ce:para id="p0245">Likelihood ratios (LR) are clinical diagnostic weights. An LR of greater than 1 increases the probability of disease (the higher the value, the greater the probability). Similarly, an LR of less than 1 decreases the probability of disease. LRs are developed against a diagnostic standard (e.g. in the case of meningitis, lumbar puncture results), so do not exist for all clinical findings. LRs illustrate how an individual clinical finding changes the probability of a disease. For example, in a person presenting with headache and fever, the clinical finding of nuchal rigidity (neck stiffness) may carry little weight in deciding whether to perform a lumbar puncture because LRs do not determine the prior probability of disease; they reflect only how a single clinical finding changes it. Clinicians have to take all the available information from the history and physical examination into account. If the overall clinical probability is high to begin with, a clinical finding with an LR of around 1 does not change this.</ce:para>
+			<ce:para id="p0250">‘Evidence-based history and examination’ is a term used to describe how clinicians incorporate knowledge about the prevalence and diagnostic weight of clinical findings into their history and physical examination. This is important because an estimate of clinical probability is vital in decision-making and the interpretation of diagnostic tests.</ce:para>
+		</ce:section>
+		<ce:section id="s0030">
+			<ce:section-title id="st0030">Use and interpretation of diagnostic tests</ce:section-title>
+			<ce:para id="p0255">There is no such thing as a perfect diagnostic test. Test results give us test probabilities, not real probabilities. Test results have to be interpreted because they are affected by the following:
+				<ce:list id="ulist0055">
+					<ce:list-item id="u0195">
+						<ce:label>•</ce:label>
+						<ce:para id="p0260">how ‘normal’ is defined</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0200">
+						<ce:label>•</ce:label>
+						<ce:para id="p0265">factors other than disease</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0205">
+						<ce:label>•</ce:label>
+						<ce:para id="p0270">operating characteristics</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0210">
+						<ce:label>•</ce:label>
+						<ce:para id="p0275">sensitivity and specificity</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0215">
+						<ce:label>•</ce:label>
+						<ce:para id="p0280">prevalence of disease in the population.</ce:para>
+					</ce:list-item>
+				</ce:list>
+			</ce:para>
+			<ce:section id="s0035">
+				<ce:section-title id="st0035">Normal values</ce:section-title>
+				<ce:para id="p0285">Most tests provide quantitative results (i.e. a value on a continuous numerical scale). In order to classify quantitative results as normal or abnormal, it is necessary to define a cut-off point. Many quantitative measurements in populations have a Gaussian or ‘normal’ distribution. By convention, the normal range is defined as those values that encompass 95% of the population, or 2 standard deviations above and below the mean. This means that 2.5% of the normal population will have values above, and 2.5% will have values below the normal range. For this reason, it is more appropriate to talk about the ‘reference range’ rather than the ‘normal range’ (
+					<ce:cross-ref id="crf0140" refid="f0020">Fig. 1.3</ce:cross-ref>
+					<ce:float-anchor refid="f0020"/>).
+				</ce:para>
+				<ce:para id="p0290">Test results in abnormal populations also have a Gaussian distribution, with a different mean and standard deviation. In some diseases there is no overlap between results from the abnormal and normal population. However, in many diseases there is overlap; in these circumstances, the greater the difference between the test result and the limits of the reference range, the higher the chance that the person has a disease.</ce:para>
+				<ce:para id="p0295">However, there are also situations in medicine when ‘normal’ is abnormal and ‘abnormal’ is normal. For example, a normal 
+					<ce:italic>Pa</ce:italic>CO
+					<ce:inf loc="post">2</ce:inf> in the context of a severe asthma attack is abnormal and means the patient has life-threatening asthma. A low ferritin in a young menstruating woman is not considered to be a disease at all. Normal, to some extent, is therefore arbitrary.
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0040">
+				<ce:section-title id="st0040">Factors other than disease that influence test results</ce:section-title>
+				<ce:para id="p0300">A number of factors other than disease influence test results:
+					<ce:list id="ulist0060">
+						<ce:list-item id="u0220">
+							<ce:label>•</ce:label>
+							<ce:para id="p0305">age</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0225">
+							<ce:label>•</ce:label>
+							<ce:para id="p0310">ethnicity</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0230">
+							<ce:label>•</ce:label>
+							<ce:para id="p0315">pregnancy</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0235">
+							<ce:label>•</ce:label>
+							<ce:para id="p0320">sex</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0240">
+							<ce:label>•</ce:label>
+							<ce:para id="p0325">spurious (in vitro) results.</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:para>
+				<ce:para id="p0330">
+					<ce:cross-ref id="crf0145" refid="b0020">Box 1.3</ce:cross-ref>
+					<ce:float-anchor refid="b0020"/> gives some examples.
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0045">
+				<ce:section-title id="st0045">Operating characteristics</ce:section-title>
+				<ce:para id="p0380">Tests are also subject to operating characteristics. This refers to the way the test is performed. Patients need to be able to comply fully with some tests, such as spirometry (
+					<ce:intra-ref id="ii0010" xlink:href="pii:B978-0-7020-7028-0.00017-2#s0435">p. 569</ce:intra-ref>), and if they cannot, then the test result will be affected. Some tests are very dependent on the skill of the operator and are also affected by the patient's body habitus and clinical state; ultrasound of the heart and abdomen are examples. A common mistake is when doctors refer to a test result as ‘no abnormality detected’ when, in fact, the report describes a technically difficult and incomplete scan that should more accurately be described as ‘non-diagnostic’.
+				</ce:para>
+				<ce:para id="p0385">Some conditions are paroxysmal. For example, around half of patients with epilepsy have a normal standard electroencephalogram (EEG). A normal EEG therefore does not exclude epilepsy. On the other hand, around 10% of patients who do 
+					<ce:italic>not</ce:italic> have epilepsy have epileptiform discharges on their EEG. This is referred to as an ‘incidental finding’. Incidental findings are common in medicine, and are increasing in incidence with the greater availability of more sensitive tests. Test results should always be interpreted in the light of the patient's history and physical examination.
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0050">
+				<ce:section-title id="st0050">Sensitivity and specificity</ce:section-title>
+				<ce:para id="p0390">Diagnostic tests have characteristics termed ‘sensitivity’ and ‘specificity’. Sensitivity is the ability to detect true positives; specificity is the ability to detect true negatives. Even a very good test, with 95% sensitivity, will miss 1 in 20 people with the disease. Every test therefore has ‘false positives’ and ‘false negatives’ (
+					<ce:cross-ref id="crf0150" refid="b0025">Box 1.4</ce:cross-ref>
+					<ce:float-anchor refid="b0025"/>).
+				</ce:para>
+				<ce:para id="p0400">A very sensitive test will detect most disease but generate abnormal findings in healthy people. A negative result will therefore reliably exclude disease but a positive result does not mean the disease is present – it means further evaluation is required. On the other hand, a very specific test may miss significant pathology but is likely to establish the diagnosis beyond doubt when the result is positive. All tests differ in their sensitivity and specificity, and clinicians require a working knowledge of the tests they use in this respect.</ce:para>
+				<ce:para id="p0405">In choosing how a test is used to guide decision-making there is a trade-off between sensitivity versus specificity. For example, defining an exercise electrocardiogram (
+					<ce:intra-ref id="ii0015" xlink:href="pii:B978-0-7020-7028-0.00016-0#s0100">p. 449</ce:intra-ref>) as abnormal if there is at least 0.5 mm of ST depression would ensure that very few cases of coronary artery disease are missed but would generate many false-positive results (high sensitivity, low specificity). On the other hand, a cut-off point of 2.0 mm of ST depression would detect most cases of important coronary artery disease with far fewer false positives. This trade-off is illustrated by the receiver operating characteristic curve of the test (
+					<ce:cross-ref id="crf0155" refid="f0025">Fig. 1.4</ce:cross-ref>
+					<ce:float-anchor refid="f0025"/>).
+				</ce:para>
+				<ce:para id="p0410">An extremely important concept is this: the probability that a person has a disease depends on the pre-test probability, and the sensitivity and specificity of the test. For example, imagine that an elderly lady has fallen and hurt her left hip. On examination, the hip is extremely painful to move and she cannot stand. However, her hip X-rays are normal. Does she have a fracture?</ce:para>
+				<ce:para id="p0415">The sensitivity of plain X-rays of the hip performed in the emergency department for suspected hip fracture is around 95%. A small percentage of fractures are therefore missed. If our patient has (or is at risk of) osteoporosis, has severe pain on hip movement and cannot bear weight on the affected side, then the clinical probability of hip fracture is high. If, on the other hand, she is unlikely to have osteoporosis, has no pain on hip movement and is able to bear weight, then the clinical probability of hip fracture is low.</ce:para>
+				<ce:para id="p0420">Doctors are continually making judgements about whether something is true, given that something else is true. This is known as ‘conditional probability’. Bayes' Theorem (named after English clergyman Thomas Bayes, 1702–1761) is a mathematical way to describe the post-test probability of a disease by combining pre-test probability, sensitivity and specificity. In clinical practice, doctors are not able to make complex mathematical calculations for every decision they make. In practical terms, the answer to the question of whether there is a fracture is that in a high-probability patient a normal test result does not exclude the condition, but in a low-probability patient it makes it very unlikely. This principle is illustrated in 
+					<ce:cross-ref id="crf0160" refid="f0030">Figure 1.5</ce:cross-ref>
+					<ce:float-anchor refid="f0030"/>.
+				</ce:para>
+				<ce:para id="p0425">Sox and colleagues (see ‘
+					<ce:cross-ref id="crf0165" refid="st0195">Further information</ce:cross-ref>’) state a fundamental assertion, which they describe as a profound and subtle principle of clinical medicine: the interpretation of new information depends on what you believed beforehand. In other words, the interpretation of a test result depends on the probability of disease before the test.
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0055">
+				<ce:section-title id="st0055">Prevalence of disease</ce:section-title>
+				<ce:para id="p0430">Consider this problem that was posed to a group of Harvard doctors: if a test to detect a disease whose prevalence is 1 : 1000 has a false-positive rate of 5%, what is the chance that a person found to have a positive result actually has the disease, assuming you know nothing about the person's symptoms and signs? Take a moment to work this out. In this problem, we have removed clinical probability and are only considering prevalence. The answer is at the end of the chapter.</ce:para>
+				<ce:para id="p0435">Predictive values combine sensitivity, specificity and prevalence. Sensitivity and specificity are characteristics of the test; the population does not change this. However, as doctors, we are interested in the question, ‘What is the probability that a person with a positive test actually has the disease?’ This is illustrated in 
+					<ce:cross-ref id="crf0170" refid="b0030">Box 1.5</ce:cross-ref>
+					<ce:float-anchor refid="b0030"/>.
+				</ce:para>
+				<ce:para id="p0445">Post-test probability and predictive values are different. Post-test probability is the probability of a disease after taking into account new information from a test result. Bayes' Theorem can be used to calculate post-test probability for a patient in any population. The pre-test probability of disease is decided by the doctor; it is a judgement based on information gathered prior to ordering the test. Predictive value is the proportion of patients with a test result who have the disease (or no disease) and is calculated from a table of results in a specific population (see 
+					<ce:cross-ref id="crf0175" refid="b0030">Box 1.5</ce:cross-ref>). It is not possible to transfer this value to a different population. This is important to realise because published information about the performance of diagnostic tests may not apply to different populations.
+				</ce:para>
+				<ce:para id="p0450">In deciding the pre-test probability of disease, clinicians often neglect to take prevalence into account and this distorts their estimate of probability. To estimate the probability of disease in a patient more accurately, clinicians should anchor on the prevalence of disease in the subgroup to which the patient belongs and then adjust to take the individual factors into account.</ce:para>
+			</ce:section>
+		</ce:section>
+		<ce:section id="s0060">
+			<ce:section-title id="st0060">Dealing with uncertainty</ce:section-title>
+			<ce:para id="p0455">Clinical findings are imperfect and diagnostic tests are imperfect. It is important to recognise that clinicians frequently deal with uncertainty. By expressing uncertainty as probability, new information from diagnostic tests can be incorporated more accurately. However, subjective estimates of probability can sometimes be unreliable. As the section on cognitive biases will demonstrate (see below), intuition can be a source of error.</ce:para>
+			<ce:para id="p0460">Knowing the patient's true state is often unnecessary in clinical decision-making. Sox and colleagues (see ‘
+				<ce:cross-ref id="crf0180" refid="st0195">Further information</ce:cross-ref>’) argue that there is a difference between knowing that a disease is present and acting as if it were present. The requirement for diagnostic certainty depends on the penalty for being wrong. Different situations require different levels of certainty before starting treatment. How we communicate uncertainty to patients will be discussed later in this chapter (
+				<ce:cross-ref id="crf9000" refid="s0115">p. 10</ce:cross-ref>).
+			</ce:para>
+			<ce:para id="p0465">The treatment threshold combines factors such as the risks of the test, and the risks versus benefits of treatment. The point at which the factors are all evenly weighed is the threshold. If a test or treatment for a disease is effective and low-risk (e.g. giving antibiotics for a suspected urinary tract infection), then there is a lower threshold for going ahead. On the other hand, if a test or treatment is less effective or high-risk (e.g. starting chemotherapy for a malignant brain tumour), then greater confidence is required in the clinical diagnosis and potential benefits of treatment first. In principle, if a diagnostic test will not change the management of the patient, then careful consideration should be given to whether it is necessary to do the test at all.</ce:para>
+			<ce:para id="p0470">In summary, test results shift our thinking, but rarely give a ‘yes’ or a ‘no’ answer in terms of a diagnosis. Sometimes tests shift the probability of disease by less than we realise. Pre-test probability is key, and this is derived from the history and physical examination, combined with a sound knowledge of medicine and an understanding of the prevalence of disease in the particular care setting or the population to which the patient belongs.</ce:para>
+		</ce:section>
+		<ce:section id="s0065">
+			<ce:section-title id="st0065">Cognitive biases</ce:section-title>
+			<ce:para id="p0475">Advances in cognitive psychology in recent decades have demonstrated that human thinking and decision-making are prone to error. Cognitive biases are subconscious errors that lead to inaccurate judgement and illogical interpretation of information. They are prevalent in everyday life; as the famous saying goes, ‘to err is human.’</ce:para>
+			<ce:para id="p0480">Take a few moments to look at this simple puzzle. Do not try to solve it mathematically but listen to your intuition:
+				<ce:list id="ulist0075">
+					<ce:list-item id="u0280">
+						<ce:para id="p0485">A bat and ball cost £1.10.</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0285">
+						<ce:para id="p0490">The bat costs £1 more than the ball.</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0290">
+						<ce:para id="p0495">How much does the ball cost?</ce:para>
+					</ce:list-item>
+				</ce:list>
+			</ce:para>
+			<ce:para id="p0500">The answer is at the end of the chapter. Most people get the answer to this puzzle wrong. Two things are going on: one is that humans have two distinct types of processes when it comes to thinking and decision-making – termed ‘type 1’ and ‘type 2’ thinking. The other is that the human brain is wired to jump to conclusions sometimes or to miss things that are obvious. British psychologist and patient safety pioneer James Reason said that, ‘Our propensity for certain types of error is the price we pay for the brain's remarkable ability to think and act intuitively – to sift quickly through the sensory information that constantly bombards us without wasting time trying to work through every situation anew.’ This property of human thinking is highly relevant to clinical decision-making.</ce:para>
+			<ce:section id="s0070">
+				<ce:section-title id="st0070">Type 1 and type 2 thinking</ce:section-title>
+				<ce:para id="p0505">Studies of cognitive psychology and functional magnetic resonance imaging demonstrate two distinct types of processes when it comes to decision-making: intuitive (type 1) and analytical (type 2). This has been termed ‘dual process theory’. 
+					<ce:cross-ref id="crf0185" refid="b0035">Box 1.6</ce:cross-ref>
+					<ce:float-anchor refid="b0035"/> explains this in more detail.
+				</ce:para>
+				<ce:para id="p0515">Psychologists estimate that we spend 95% of our daily lives engaged in type 1 thinking – the intuitive, fast, subconscious mode of decision-making. Imagine driving a car, for example; it would be impossible to function efficiently if every decision and movement were as deliberate, conscious, slow and effortful as in our first driving lesson. With experience, complex procedures become automatic, fast and effortless. The same applies to medical practice. There is evidence that expert decision-making is well served by intuitive thinking. The problem is that although intuitive processing is highly efficient in many circumstances, in others it is prone to error.</ce:para>
+				<ce:para id="p0520">Clinicians use both type 1 and type 2 thinking, and both types are important in clinical decision-making. When encountering a problem that is familiar, clinicians employ pattern recognition and reach a working diagnosis or differential diagnosis quickly (type 1 thinking). When encountering a problem that is more complicated, they use a slower, systematic approach (type 2 thinking). Both types of thinking interplay – they are not mutually exclusive in the diagnostic process. 
+					<ce:cross-ref id="crf0190" refid="f0035">Figure 1.6</ce:cross-ref>
+					<ce:float-anchor refid="f0035"/> illustrates the interplay between type 1 and type 2 thinking in clinical practice.
+				</ce:para>
+				<ce:para id="p0525">Errors can occur in both type 1 and type 2 thinking; for example, people can apply the wrong rules or make errors in their application while using type 2 thinking. However, it has been argued that the common cognitive biases encountered in medicine tend to occur when clinicians are engaged in type 1 thinking.</ce:para>
+				<ce:para id="p0530">For example, imagine being asked to see a young woman who is drowsy. She is handed over to you as a ‘probable overdose’ because she has a history of depression and a packet of painkillers was found beside her at home. Her observations show she has a Glasgow Coma Scale score of 10/15, heart rate 100 beats/min, blood pressure 100/60 mmHg, respiratory rate 14 breaths/min, oxygen saturations 98% on air and temperature 37.5°C. Already your mind has reached a working diagnosis. It fits a pattern (type 1 thinking). You think she has taken an overdose. At this point you can stop to think about your thinking (rational override in 
+					<ce:cross-ref id="crf0195" refid="f0035">Fig. 1.6</ce:cross-ref>): ‘What is the evidence for this diagnosis? What else could it be?’
+				</ce:para>
+				<ce:para id="p0535">On the other hand, imagine being asked to assess a patient who has been admitted with syncope. There are several different causes of syncope and a systematic approach is required to reach a diagnosis (type 2 thinking). However, you recently heard about a case of syncope due to a leaking abdominal aortic aneurysm. At the end of your assessment, following evidence-based guidelines, it is clear the patient can be discharged. Despite this, you decide to observe the patient overnight ‘just in case’ (irrational override in 
+					<ce:cross-ref id="crf0200" refid="f0035">Fig. 1.6</ce:cross-ref>). In this example, your intuition is actually availability bias (when things are at the forefront of your mind), which has significantly distorted your estimate of probability.
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0075">
+				<ce:section-title id="st0075">Common cognitive biases in medicine</ce:section-title>
+				<ce:para id="p0540">
+					<ce:cross-ref id="crf0205" refid="f0040">Figure 1.7</ce:cross-ref>
+					<ce:float-anchor refid="f0040"/> illustrates the common cognitive biases prevalent in medical practice. Biases often work together; for example, in overconfidence bias (the tendency to believe we know more than we actually do), too much faith is placed in opinion instead of gathered evidence. This bias can be augmented by the availability bias and finally by commission bias (the tendency towards action rather than inaction) – sometimes with disastrous results.
+				</ce:para>
+				<ce:para id="p0545">The mark of a well-calibrated thinker is the ability to recognise what mode of thinking is being employed and to anticipate and recognise situations in which cognitive biases and errors are more likely to occur.</ce:para>
+			</ce:section>
+			<ce:section id="s0080">
+				<ce:section-title id="st0080">Human factors</ce:section-title>
+				<ce:para id="p0550">‘Human factors’ is the science of the limitations of human performance, and how technology, the work environment and team communication can adapt for this to reduce diagnostic and other types of error. Analysis of serious adverse events in clinical practice shows that human factors and poor team communication play a significant role when things go wrong.</ce:para>
+				<ce:para id="p0555">Research shows that many errors are beyond an individual's conscious control and are precipitated by many factors. The discipline of human factors seeks to understand interactions between:
+					<ce:list id="ulist0080">
+						<ce:list-item id="u0295">
+							<ce:label>•</ce:label>
+							<ce:para id="p0560">people and tasks or technology</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0300">
+							<ce:label>•</ce:label>
+							<ce:para id="p0565">people and their work environment</ce:para>
+						</ce:list-item>
+						<ce:list-item id="u0305">
+							<ce:label>•</ce:label>
+							<ce:para id="p0570">people in a team.</ce:para>
+						</ce:list-item>
+					</ce:list>
+				</ce:para>
+				<ce:para id="p0575">An understanding of these interactions makes it easier for health-care professionals, who are committed to ‘first do no harm,’ to work in the safest way possible. For example, performance is adversely affected by factors such as poorly designed processes and equipment, frequent interruptions and fatigue. The areas of the brain required for type 2 processing are most affected by things like fatigue and cognitive overload, and the brain reverts to type 1 processing to conserve cognitive energy. 
+					<ce:cross-ref id="crf0210" refid="f0045">Figure 1.8</ce:cross-ref>
+					<ce:float-anchor refid="f0045"/> illustrates some of the internal and external factors that affect human judgement and decision-making.
+				</ce:para>
+				<ce:para id="p0580">Various experiments demonstrate that we focus our attention to filter out distractions. This is advantageous in many situations, but in focusing on what we are trying to see we may not notice the unexpected. In a team context, what is obvious to one person may be completely missed by someone else. Safe and effective team communication therefore requires us never to assume, and to verbalise things, even though they may seem obvious.</ce:para>
+			</ce:section>
+		</ce:section>
+		<ce:section id="s0085">
+			<ce:section-title id="st0085">Reducing errors in clinical decision-making</ce:section-title>
+			<ce:para id="p0585">Knowledge and experience do not eliminate errors. Instead, there are a number of ways in which we can act to reduce errors in clinical decision-making. Examples are:
+				<ce:list id="ulist0085">
+					<ce:list-item id="u0310">
+						<ce:label>•</ce:label>
+						<ce:para id="p0590">adopting ‘cognitive debiasing strategies’</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0315">
+						<ce:label>•</ce:label>
+						<ce:para id="p0595">using clinical prediction rules and other decision aids</ce:para>
+					</ce:list-item>
+					<ce:list-item id="u0320">
+						<ce:label>•</ce:label>
+						<ce:para id="p0600">engaging in effective team communication.</ce:para>
+					</ce:list-item>
+				</ce:list>
+			</ce:para>
+			<ce:section id="s0090">
+				<ce:section-title id="st0090">Cognitive debiasing strategies</ce:section-title>
+				<ce:para id="p0605">There are some simple and established techniques that can be used to avoid cognitive biases and errors in clinical decision-making.</ce:para>
+				<ce:section id="s0095">
+					<ce:section-title id="st0095">History and physical examination</ce:section-title>
+					<ce:para id="p0610">Taking a history and performing a physical examination may seem obvious, but these are sometimes carried out inadequately. This is the ‘unpacking principle’: failure to unpack all the available information means things can be missed and lead to error.</ce:para>
+				</ce:section>
+				<ce:section id="s0100">
+					<ce:section-title id="st0100">Problem lists and differential diagnosis</ce:section-title>
+					<ce:para id="p0615">Once all the available data from history, physical examination and (sometimes) initial test results are available, these need to be synthesised into a problem list. The ability to identify key clinical data and create a problem list is a key step in clinical reasoning. Some problems (e.g. low serum potassium) require action but not necessarily a differential diagnosis. Other problems (e.g. vomiting) require a differential diagnosis. The process of generating a problem list ensures nothing is missed. The process of generating a differential diagnosis works against anchoring on a particular diagnosis too early, thereby avoiding search satisficing and premature closure (see 
+						<ce:cross-ref id="crf0215" refid="f0040">Fig. 1.7</ce:cross-ref>).
+					</ce:para>
+				</ce:section>
+				<ce:section id="s0105">
+					<ce:section-title id="st0105">Mnemonics and checklists</ce:section-title>
+					<ce:para id="p0620">These are used frequently in medicine in order to reduce reliance on fallible human memory. ABCDE (airway, breathing, circulation, disability, exposure/examination) is probably the most successful checklist in medicine, used during the assessment and treatment of critically ill patients (ABCDE is sometimes prefixed with ‘C’ for ‘control of any obvious problem’; see 
+						<ce:intra-ref id="ii0025" xlink:href="pii:B978-0-7020-7028-0.00010-X#s0260">p. 188</ce:intra-ref>). Checklists ensure that important issues have been considered and completed, especially under conditions of complexity, stress or fatigue.
+					</ce:para>
+				</ce:section>
+				<ce:section id="s0110">
+					<ce:section-title id="st0110">Red flags and ROWS (‘rule out worst case scenario’)</ce:section-title>
+					<ce:para id="p0625">These are strategies that force doctors to consider serious diseases that can present with common symptoms. Red flags in back pain are listed in 
+						<ce:intra-ref id="ii0030" xlink:href="pii:B978-0-7020-7028-0.00024-X#b0100">Box 24.19</ce:intra-ref> (
+						<ce:intra-ref id="ii0035" xlink:href="pii:B978-0-7020-7028-0.00024-X#p1360">p. 996</ce:intra-ref>). Considering and investigating for possible pulmonary embolism in patients who present with pleuritic chest pain and breathlessness is a common example of ruling out a worst-case scenario, as pulmonary embolism can be fatal if missed. Red flags and ROWS help to avoid cognitive biases such as the ‘framing effect’ and ‘premature closure’.
+					</ce:para>
+					<ce:para id="p0630">Newer strategies to avoid cognitive biases and errors in decision-making are emerging. These involve explicit training in clinical reasoning and human factors. In theory, if doctors are aware of the science of human thinking and decision-making, then they are more able to think about their thinking, understand situations in which their decision-making may be affected, and take steps to mitigate this.</ce:para>
+				</ce:section>
+			</ce:section>
+			<ce:section id="s0115">
+				<ce:section-title id="st0115">Using clinical prediction rules and other decision aids</ce:section-title>
+				<ce:para id="p0635">A clinical prediction rule is a statistical model of the diagnostic process. When clinical prediction rules are matched against the opinion of experts, the model usually outperforms the experts, because it is applied consistently in each case. However, it is important that clinical prediction rules are used correctly – that is, applied to the patient population that was used to create the rule. Clinical prediction rules force a scientific assessment of the patient's symptoms, signs and other data to develop a numerical probability of a disease or an outcome. They help clinicians to estimate probability more accurately.</ce:para>
+				<ce:para id="p0640">A good example of a clinical prediction rule to estimate pre-test probability is the Wells score in suspected deep vein thrombosis (see 
+					<ce:intra-ref id="ii0040" xlink:href="pii:B978-0-7020-7028-0.00010-X#b0085">Box 10.15</ce:intra-ref>, 
+					<ce:intra-ref id="ii0045" xlink:href="pii:B978-0-7020-7028-0.00010-X#p1345">p. 187</ce:intra-ref>). Other commonly used clinical prediction rules predict outcomes and therefore guide the management plan. These include the GRACE score in acute coronary syndromes (see 
+					<ce:intra-ref id="ii0050" xlink:href="pii:B978-0-7020-7028-0.00016-0#f0350">Fig. 16.62</ce:intra-ref>, 
+					<ce:intra-ref id="ii0055" xlink:href="pii:B978-0-7020-7028-0.00016-0#s1380">p. 494</ce:intra-ref>) and the CURB-65 score in community-acquired pneumonia (see 
+					<ce:intra-ref id="ii0060" xlink:href="pii:B978-0-7020-7028-0.00017-2#f0180">Fig. 17.32</ce:intra-ref>, 
+					<ce:intra-ref id="ii0065" xlink:href="pii:B978-0-7020-7028-0.00017-2#p3250">p. 583</ce:intra-ref>).
+				</ce:para>
+			</ce:section>
+			<ce:section id="s0120">
+				<ce:section-title id="st0120">Effective team communication</ce:section-title>
+				<ce:para id="p0645">Effective team communication and proper handovers are vital for safe clinical care. The SBAR system of communication has been recommended by the UK's Patient Safety First campaign. It is a structured way to communicate about a patient with another health-care professional (e.g. during handover or when making a referral) and increases the amount of relevant information being communicated in a shorter time. It is illustrated in 
+					<ce:cross-ref id="crf0220" refid="b0040">Box 1.7</ce:cross-ref>
+					<ce:float-anchor refid="b0040"/>.
+				</ce:para>
+				<ce:para id="p0660">In increasingly complex health-care systems, patients are looked after by a wide variety of professionals, each of whom has access to important information required to make clinical decisions. Strict hierarchies are hazardous to patient safety if certain members of the team are not able to speak up.</ce:para>
+			</ce:section>
+		</ce:section>
+		<ce:section id="s0125">
+			<ce:section-title id="st0125">Patient-centred evidence-based medicine and shared decision-making</ce:section-title>
+			<ce:para id="p0665">‘Patient-centred evidence-based medicine’ refers to the application of best-available research evidence while taking individual patient factors into account; these include both clinical and non-clinical factors (e.g. the patient's social circumstances, values and wishes). For example, a 95-year-old man with dementia and a recent gastrointestinal bleed is admitted with an inferior myocardial infarction. He is clinically well. Should he be treated with dual antiplatelet therapy and low-molecular-weight heparin as recommended in clinical guidelines?</ce:para>
+			<ce:para id="p0670">As this chapter has described, clinicians frequently deal with uncertainty/probability. Clinicians need to be able to explain risks and benefits of treatment in an accurate and understandable way. Providing the relevant statistics is seldom sufficient to guide decision-making because a patient's perception of risk may be influenced by irrational factors as well as individual values.</ce:para>
+			<ce:para id="p0675">Research evidence provides statistics but these can be confusing. Terms such as ‘common’ and ‘rare’ are nebulous. Whenever possible, clinicians should quote numerical information using consistent denominators (e.g. ‘90 out of 100 patients who have this operation feel much better, 1 will die during the operation and 2 will suffer a stroke’). Visual aids can be used to present complex statistical information (
+				<ce:cross-ref id="crf0225" refid="f0050">Fig. 1.9</ce:cross-ref>
+				<ce:float-anchor refid="f0050"/>).
+			</ce:para>
+			<ce:para id="p0680">How uncertainty is conveyed to patients is important. Many studies demonstrate a correlation between effective clinician–patient communication and improved health outcomes. If patients feel they have been listened to and understand the problem and proposed treatment plan, they are more likely to follow the plan and less likely to re-attend.</ce:para>
+		</ce:section>
+		<ce:section id="s0130">
+			<ce:section-title id="st0130">Clinical decision-making: putting it all together</ce:section-title>
+			<ce:para id="p0685">The following is a practical example that brings together many of the concepts outlined in this chapter:</ce:para>
+			<ce:para id="p0690">A 25-year-old woman presents with right-sided pleuritic chest pain and breathlessness. She reports that she had an upper respiratory tract infection a week ago and was almost back to normal when the symptoms started. The patient has no past medical history and no family history, and her only medication is the combined oral contraceptive pill. On examination, her vital signs are normal (respiratory rate 19 breaths/min, oxygen saturations 98% on air, blood pressure 115/60 mmHg, heart rate 90 beats/min, temperature 37.5°C) and the physical examination is also normal. You have been asked to assess her for the possibility of a pulmonary embolism.</ce:para>
+			<ce:para id="p0695">(More information on pulmonary embolism can be found on 
+				<ce:intra-ref id="ii0070" xlink:href="pii:B978-0-7020-7028-0.00017-2#s1880">page 619</ce:intra-ref>.)
+			</ce:para>
+			<ce:section id="s0135">
+				<ce:section id="s0140">
+					<ce:section-title id="st0135">Evidence-based history and examination</ce:section-title>
+					<ce:para id="p0700">Information from the history and physical examination is vital in deciding whether this could be a pulmonary embolism. Pleurisy and breathlessness are common presenting features of this disease but are also common presenting features in other diseases. There is nothing in the history to suggest an alternative diagnosis (e.g. high fever, productive cough, recent chest trauma). The patient's vital signs are normal, as is the physical examination. However, the only feature in the history and examination that has a negative likelihood ratio in the diagnosis of pulmonary embolism is a heart rate of less than 90 beats/min. In other words, the normal physical examination findings (including normal oxygen saturations) carry very little diagnostic weight.</ce:para>
+				</ce:section>
+				<ce:section id="s0145">
+					<ce:section-title id="st0140">Deciding pre-test probability</ce:section-title>
+					<ce:para id="p0705">The prevalence of pulmonary embolism in 25-year-old women is low. We anchor on this prevalence and then adjust for individual patient factors. This patient has no major risk factors for pulmonary embolism. To assist our estimate of pre-test probability, we could use a clinical prediction rule: in this case, the modified Wells score for pulmonary embolism, which would give a score of 3 (low probability – answering yes only to the criterion ‘PE is the number one diagnosis, an alternative is less likely’).</ce:para>
+				</ce:section>
+				<ce:section id="s0150">
+					<ce:section-title id="st0145">Interpreting test results</ce:section-title>
+					<ce:para id="p0710">Imagine the patient went on to have a normal chest X-ray and blood results, apart from a raised D-dimer of 900 (normal &#x003C; 500 ng/mL). A normal chest X-ray is a common finding in pulmonary embolism. Several studies have shown that the D-dimer assay has at least 95% sensitivity in acute pulmonary embolism but it has a low specificity. A very sensitive test will detect most disease but generate abnormal findings in healthy people. On the other hand, a negative result virtually, but not completely, excludes the disease. It is important at this point to realise that a raised D-dimer result does not mean this patient has a pulmonary embolism; it just means that we have not been able to exclude it. Since pulmonary embolism is a potentially fatal condition we need to rule out the worst-case scenario (ROWS), and the next step is therefore to arrange further imaging. What kind of imaging depends on individual patient characteristics and what is available.</ce:para>
+				</ce:section>
+				<ce:section id="s0155">
+					<ce:section-title id="st0150">Treatment threshold</ce:section-title>
+					<ce:para id="p0715">The treatment threshold combines factors such as the risks of the test, and the risks versus benefits of treatment. A CT pulmonary angiogram (CTPA) could be requested for this patient, although in some circumstances ventilation–perfusion single-photon emission computed tomography (V̇/Q̇ SPECT, 
+						<ce:intra-ref id="ii9000" xlink:href="pii:B978-0-7020-7028-0.00017-2#p6790">p. 620</ce:intra-ref>) may be a more suitable alternative. However, what if the scan cannot be performed until the next day? Because pulmonary embolism is potentially fatal and the risks of treatment in this case are low, the patient should be started on treatment while awaiting the scan.
+					</ce:para>
+				</ce:section>
+				<ce:section id="s0160">
+					<ce:section-title id="st0155">Post-test probability</ce:section-title>
+					<ce:para id="p0720">The patient's scan result is subsequently reported as ‘no pulmonary embolism’. Combined with the low pre-test probability, this scan result reliably excludes pulmonary embolism.</ce:para>
+				</ce:section>
+				<ce:section id="s0165">
+					<ce:section-title id="st0160">Cognitive biases</ce:section-title>
+					<ce:para id="p0725">Imagine during this case that the patient had been handed over to you as ‘nothing wrong – probably a pulled muscle’. Cognitive biases (subconscious tendencies to respond in a certain way) would come into play, such as the ‘framing effect’, ‘confirmation bias’ and ‘search satisficing’. The normal clinical examination might confirm the diagnosis of musculoskeletal pain in your mind, despite the examination being entirely consistent with pulmonary embolism and despite the lack of history and examination findings (e.g. chest wall tenderness) to support the diagnosis of musculoskeletal chest pain.</ce:para>
+				</ce:section>
+				<ce:section id="s0170">
+					<ce:section-title id="st0165">Human factors</ce:section-title>
+					<ce:para id="p0730">Imagine that, after you have seen the patient, a nurse hands you some blood forms and asks you what tests you would like to request on ‘this lady’. You request blood tests including a D-dimer on the wrong patient. Luckily, this error is intercepted.</ce:para>
+				</ce:section>
+				<ce:section id="s0175">
+					<ce:section-title id="st0170">Reducing cognitive error</ce:section-title>
+					<ce:para id="p0735">The diagnosis of pulmonary embolism can be difficult. Clinical prediction rules (e.g. modified Wells score), guidelines (e.g. from the UK's National Institute for Health and Care Excellence, or NICE) and decision aids (e.g. simplified pulmonary embolism severity index, or PESI) are frequently used in combination with the doctor's opinion, derived from information gathered in the history and physical examination.</ce:para>
+				</ce:section>
+				<ce:section id="s0180">
+					<ce:section-title id="st0175">Person-centred EBM and information given to patient</ce:section-title>
+					<ce:para id="p0740">The patient is treated according to evidence-based guidelines that apply to her particular situation. Tests alone do not make a diagnosis and at the end of this process the patient is told that the combination of history, examination and test results mean she is extremely unlikely to have a pulmonary embolism. Viral pleurisy is offered as an alternative diagnosis and she is reassured that her symptoms are expected to settle over the coming days with analgesia. She is advised to re-present to hospital if her symptoms suddenly get worse.</ce:para>
+				</ce:section>
+			</ce:section>
+		</ce:section>
+		<ce:section id="s0185">
+			<ce:section-title id="st0180">Answers to problems</ce:section-title>
+			<ce:section id="s9000">
+				<ce:section id="s0190">
+					<ce:section-title id="st0185">Harvard problem (
+						<ce:cross-ref id="crf9005" refid="s0055">p. 5</ce:cross-ref>)
+					</ce:section-title>
+					<ce:para id="p0745">The problem originates from a 1978 article in the New England Journal of Medicine (
+						<ce:cross-ref id="crf9015" refid="bib9001">Casscells et al</ce:cross-ref>, see ‘
+						<ce:cross-ref id="crf9020" refid="fr0010">Further information</ce:cross-ref>’). Almost half of doctors surveyed said 95%, but they neglected to take prevalence into account. If 1000 people are tested, there will be 51 positive results: 50 false positives and 1 true positive (assuming 100% sensitivity). The chance that a person found to have a positive result actually has the disease is therefore only 1/51 or ~2%.
+					</ce:para>
+				</ce:section>
+				<ce:section id="s0195">
+					<ce:section-title id="st0190">Bat and ball problem (
+						<ce:cross-ref id="crf9010" refid="s0065">p. 6</ce:cross-ref>)
+					</ce:section-title>
+					<ce:para id="p0750">This puzzle is from the book, 
+						<ce:italic>Thinking, Fast and Slow</ce:italic>, by Nobel laureate Daniel Kahneman (see ‘
+						<ce:cross-ref id="crf0230" refid="st0195">Further information</ce:cross-ref>’). He writes, ‘A number came to your mind. The number, of course, is 10p. The distinctive mark of this easy puzzle is that it evokes an answer that is intuitive, appealing – and wrong. Do the math, and you will see.’ The correct answer is 5p.
+					</ce:para>
+				</ce:section>
+			</ce:section>
+		</ce:section>
+	</ce:sections>
+	<ce:further-reading id="fr0010">
+		<ce:section-title id="st0195">Further information</ce:section-title>
+		<ce:further-reading-sec id="fs0010">
+			<ce:section-title id="st0200">Books and journal articles</ce:section-title>
+			<ce:bib-reference id="bib1">
+				<ce:label>Cooper, Frain, 2016</ce:label>
+				<sb:reference id="sr0010">
+					<sb:host>
+						<sb:edited-book>
+							<sb:editors>
+								<sb:editor>
+									<ce:given-name>N</ce:given-name>
+									<ce:surname>Cooper</ce:surname>
+								</sb:editor>
+								<sb:editor>
+									<ce:given-name>J</ce:given-name>
+									<ce:surname>Frain</ce:surname>
+								</sb:editor>
+							</sb:editors>
+							<sb:title>
+								<sb:maintitle>ABC of clinical reasoning</sb:maintitle>
+							</sb:title>
+							<sb:date>2016</sb:date>
+							<sb:publisher>
+								<sb:name>Wiley–Blackwell</sb:name>
+								<sb:location>Oxford</sb:location>
+							</sb:publisher>
+						</sb:edited-book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib2">
+				<ce:label>Kahneman, 2012</ce:label>
+				<sb:reference id="sr0015">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>D</ce:given-name>
+								<ce:surname>Kahneman</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Thinking, fast and slow</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:book>
+							<sb:date>2012</sb:date>
+							<sb:publisher>
+								<sb:name>Penguin</sb:name>
+								<sb:location>Harmondsworth</sb:location>
+							</sb:publisher>
+						</sb:book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib9001">
+				<ce:label>Casscells, Schoenberger, Graboys, 1978</ce:label>
+				<sb:reference id="sr9000">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>W</ce:given-name>
+								<ce:surname>Casscells</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>A</ce:given-name>
+								<ce:surname>Schoenberger</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>TB</ce:given-name>
+								<ce:surname>Graboys</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Interpretation by physicians of clinical laboratory results</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:issue>
+							<sb:series>
+								<sb:title>
+									<sb:maintitle>N Engl J Med</sb:maintitle>
+								</sb:title>
+								<sb:volume-nr>299</sb:volume-nr>
+							</sb:series>
+							<sb:date>1978</sb:date>
+						</sb:issue>
+						<sb:pages>
+							<sb:first-page>999</sb:first-page>
+							<sb:last-page>1001</sb:last-page>
+						</sb:pages>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib3">
+				<ce:label>McGee, 2012</ce:label>
+				<sb:reference id="sr0020">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>S</ce:given-name>
+								<ce:surname>McGee</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Evidence-based physical diagnosis</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:book>
+							<sb:edition>3rd edn</sb:edition>
+							<sb:date>2012</sb:date>
+							<sb:publisher>
+								<sb:name>Saunders</sb:name>
+								<sb:location>Philadelphia</sb:location>
+							</sb:publisher>
+						</sb:book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib4">
+				<ce:label>Scott, 2009</ce:label>
+				<sb:reference id="sr0025">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>IA</ce:given-name>
+								<ce:surname>Scott</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Errors in clinical reasoning: causes and remedial strategies</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:issue>
+							<sb:series>
+								<sb:title>
+									<sb:maintitle>BMJ</sb:maintitle>
+								</sb:title>
+								<sb:volume-nr>338</sb:volume-nr>
+							</sb:series>
+							<sb:date>2009</sb:date>
+						</sb:issue>
+						<sb:pages>
+							<sb:first-page>b186</sb:first-page>
+						</sb:pages>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib5">
+				<ce:label>Sox, Higgins, Owens, 2013</ce:label>
+				<sb:reference id="sr0030">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>H</ce:given-name>
+								<ce:surname>Sox</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>MC</ce:given-name>
+								<ce:surname>Higgins</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>DK</ce:given-name>
+								<ce:surname>Owens</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Medical decision making</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:book>
+							<sb:edition>2nd edn</sb:edition>
+							<sb:date>2013</sb:date>
+							<sb:publisher>
+								<sb:name>Wiley–Blackwell</sb:name>
+								<sb:location>Chichester</sb:location>
+							</sb:publisher>
+						</sb:book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib6">
+				<ce:label>Trowbridge, Rencic, Durning, 2015</ce:label>
+				<sb:reference id="sr0035">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>RL</ce:given-name>
+								<ce:surname>Trowbridge</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>JJ</ce:given-name>
+								<ce:surname>Rencic</ce:surname>
+							</sb:author>
+							<sb:author>
+								<ce:given-name>SJ</ce:given-name>
+								<ce:surname>Durning</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Teaching clinical reasoning</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:book>
+							<sb:date>2015</sb:date>
+							<sb:publisher>
+								<sb:name>American College of Physicians</sb:name>
+								<sb:location>Philadelphia</sb:location>
+							</sb:publisher>
+						</sb:book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib7">
+				<ce:label>Vincent, 2006</ce:label>
+				<sb:reference id="sr0040">
+					<sb:contribution langtype="en">
+						<sb:authors>
+							<sb:author>
+								<ce:given-name>C</ce:given-name>
+								<ce:surname>Vincent</ce:surname>
+							</sb:author>
+						</sb:authors>
+						<sb:title>
+							<sb:maintitle>Patient safety</sb:maintitle>
+						</sb:title>
+					</sb:contribution>
+					<sb:host>
+						<sb:book>
+							<sb:date>2006</sb:date>
+							<sb:publisher>
+								<sb:name>Churchill Livingstone</sb:name>
+								<sb:location>Edinburgh</sb:location>
+							</sb:publisher>
+						</sb:book>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+		</ce:further-reading-sec>
+		<ce:further-reading-sec id="fs0015">
+			<ce:section-title id="st0205">Websites</ce:section-title>
+			<ce:bib-reference id="bib8">
+				<ce:label>,</ce:label>
+				<sb:reference id="sr0045">
+					<sb:host>
+						<sb:e-host>
+							<ce:inter-ref id="iw0015" xlink:href="http://chfg.org">chfg.org</ce:inter-ref>
+						</sb:e-host>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib9">
+				<ce:label>,</ce:label>
+				<ce:note>
+					<ce:simple-para id="sp0095">
+						<ce:italic>UK Clinical Human Factors Group.</ce:italic>
+					</ce:simple-para>
+				</ce:note>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib10">
+				<ce:label>,</ce:label>
+				<sb:reference id="sr0050">
+					<sb:host>
+						<sb:e-host>
+							<ce:inter-ref id="iw0020" xlink:href="http://clinical-reasoning.org">clinical-reasoning.org</ce:inter-ref>
+						</sb:e-host>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib11">
+				<ce:label>,</ce:label>
+				<ce:note>
+					<ce:simple-para id="sp0100">
+						<ce:italic>Clinical reasoning resources.</ce:italic>
+					</ce:simple-para>
+				</ce:note>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib12">
+				<ce:label>,</ce:label>
+				<sb:reference id="sr0055">
+					<sb:host>
+						<sb:e-host>
+							<ce:inter-ref id="iw0025" xlink:href="http://creme.org.uk">creme.org.uk</ce:inter-ref>
+						</sb:e-host>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib13">
+				<ce:label>,</ce:label>
+				<ce:note>
+					<ce:simple-para id="sp0105">
+						<ce:italic>UK Clinical Reasoning in Medical Education group.</ce:italic>
+					</ce:simple-para>
+				</ce:note>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib14">
+				<ce:label>,</ce:label>
+				<sb:reference id="sr0060">
+					<sb:host>
+						<sb:e-host>
+							<ce:inter-ref id="iw0030" xlink:href="http://improvediagnosis.org">improvediagnosis.org</ce:inter-ref>
+						</sb:e-host>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib15">
+				<ce:label>,</ce:label>
+				<ce:note>
+					<ce:simple-para id="sp0110">
+						<ce:italic>Society to Improve Diagnosis in Medicine.</ce:italic>
+					</ce:simple-para>
+				</ce:note>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib20">
+				<ce:label>,</ce:label>
+				<sb:reference id="sr0065">
+					<sb:host>
+						<sb:e-host>
+							<ce:inter-ref id="iw0035" xlink:href="http://vassarstats.net/index.html">vassarstats.net/index.html</ce:inter-ref>
+						</sb:e-host>
+					</sb:host>
+				</sb:reference>
+			</ce:bib-reference>
+			<ce:bib-reference id="bib21">
+				<ce:label>,</ce:label>
+				<ce:note>
+					<ce:simple-para id="sp0115">
+						<ce:italic>Suite of calculators for statistical computation (Calculator 2 is a calculator for predictive values and likelihood ratios).</ce:italic>
+					</ce:simple-para>
+				</ce:note>
+			</ce:bib-reference>
+		</ce:further-reading-sec>
+	</ce:further-reading>
+</chapter>
